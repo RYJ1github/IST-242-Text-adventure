@@ -22,6 +22,16 @@ public class Player {
             life = true;
         }
         return life;
+
+    
+    }
+
+    public short getHp() {
+        return hp;
+    }
+
+    public void setHp(short hp) {
+        this.hp = hp;
     }
 }
 

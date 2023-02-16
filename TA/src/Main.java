@@ -20,5 +20,6 @@ public class Main {
         Skullhead deadSkullhead = new Skullhead(Ability.Stalking);
         Player player1 = new Player("Player1", 100, 10, true);
 
+
     }
 }
